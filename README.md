@@ -97,6 +97,7 @@ The trigger automatically logs all new orders into order_reports.
 
 Refresh the materialized view manually or rely on the scheduler job for automated daily updates.
 You can extend the package with additional procedures/functions as needed.
+
 Keywords / Topics
 plsql
 oracle
@@ -118,5 +119,6 @@ plsql-example
 License
 This project is free to use and modify.
 Created by Hamed Sadeghi Firouzja
+
 
 
